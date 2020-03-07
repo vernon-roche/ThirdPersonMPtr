@@ -7,4 +7,11 @@
 void UClientWidget::SetClientText(FString NewText)
 {
 	HealthText->SetText(FText::FromString(NewText));
+	int a;
+	/*
+	
+	
+	*/
+
+
 }
