@@ -1,3 +1,0 @@
-D:\ThirdPersonMP\Source\ThirdPersonMP\ThirdPersonMP.Build.cs
-D:\ThirdPersonMP\Source\ThirdPersonMP.Target.cs
-D:\ThirdPersonMP\Source\ThirdPersonMPEditor.Target.cs
