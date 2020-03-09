@@ -1,2 +1,0 @@
-# ThirdPersonMP
- multi
