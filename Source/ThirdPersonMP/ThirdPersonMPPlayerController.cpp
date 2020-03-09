@@ -13,6 +13,8 @@ void AThirdPersonMPPlayerController::CreateMyClientWidget()
 		MyClientWidget = CreateWidget<UClientWidget>(this, ClientWidgetClass);
 		MyClientWidget->AddToViewport();
 	}
+
+	//
 }
 
 void AThirdPersonMPPlayerController::BeginPlay()
