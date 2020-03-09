@@ -63,8 +63,6 @@ AThirdPersonMPCharacter::AThirdPersonMPCharacter()
 	//Initialize fire rate
 	FireRate = 0.25f;
 	bIsFiringWeapon = false;
-
-	//com
 }
 
 //////////////////////////////////////////////////////////////////////////
